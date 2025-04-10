@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-I'm an incoming Linguistics PhD student at [Stanford](https://linguistics.stanford.edu/"Stanford Linguistics").
+I'm an incoming Linguistics PhD student at [Stanford](https://linguistics.stanford.edu/ "Stanford Linguistics").
 
 I'm broadly interested in:
 
