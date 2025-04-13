@@ -8,5 +8,3 @@ I'm interested in:
 - 🧠 Cognition (stereotype, bias, exemplar theory)
 - 🎙️ Phonetics (perception, variation, sibilants)
 - 👾 Computational methods (NLP, LLMs, text corpora)
-
-Watch this space for updates on my work! And please feel free to contact me at **msenko** at **stanford** dot **edu**.
